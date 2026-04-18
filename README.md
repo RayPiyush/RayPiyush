@@ -1,3 +1,4 @@
+Hey there, I am Piyush Ray
 # 💫 About Me:
 🔭 I’m currently working as JAVA Spring Boot Developer At TCS<br>👯 I’m looking to collaborate on any GEN AI project<br>🤝 I’m looking for help with Open Source projects<br>🌱 I’m currently learning GEN AI and Agentic AI<br>💬 Ask me about love for programming<br>⚡ Fun fact -I don't hate every error
 
